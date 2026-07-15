@@ -3,7 +3,7 @@
 
 This is a **Java-based GUI application** for managing electricity billing operations. It supports user login, customer registration, bill generation, payment processing, and more — all built using **Java Swing** and **MySQL (JDBC)**.
 
-> 👨‍💻 Developed by [Sujal Chouksey].
+> 👨‍💻 Developed by [Gourang Deshmukh].
 > 🛠 IDE Used: IntelliJ IDEA\
 > 💾 Database: MySQL\
 > 📚 Libraries: JDBC (MySQL Connector/J)
